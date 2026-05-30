@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsync",
+        "uuid": 3753024,
+        "checksum": "2rxwwfg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
